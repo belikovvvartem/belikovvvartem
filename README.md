@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Artem
+- 🌱 I am studying to become a front-end developer.
+- 📫 You can contact me via email at belikovartemmm@gmail.com.
